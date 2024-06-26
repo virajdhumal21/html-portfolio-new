@@ -1,0 +1,200 @@
+.left
+ {
+    margin: 0;
+    padding: 0;
+ }
+
+ body {
+    background-color: #01011a;
+    color: rgb(249, 243, 243);
+    font-family: 'poppins', sans-serif;
+ }
+
+ nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(18, 18, 62);
+ }
+
+ nav ul {
+    display: flex;
+    justify-content: center;
+ }
+
+ nav ul li {
+    list-style: none;
+    margin: 0 23px;
+ }
+
+ nav ul li a {
+    text-align: none;
+    color: white;
+ }
+
+ nav ul li a:hover {
+
+    color: rgb(153, 153, 226);
+    font-size: 1.01rem;
+ }
+
+ main hr {
+    border: 0;
+    background: #9c97f1;
+    height: 1.2px;
+    margin: 60px 84px;
+ }
+
+ .left {
+    font-size: 1.5rem;
+ }
+
+ .firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 1;
+    align-items: center;
+ }
+
+ .firstsection>div {
+    width: 35%;
+ }
+
+ .leftsection {
+
+    font-size: 2.02rem;
+    margin: 120px;
+ }
+
+ .leftsection .buttons {
+    padding: 20px 0;
+ }
+
+ .leftsection .btn {
+    padding: 4px;
+    background: #1e2167;
+    color: rgb(190, 187, 187);
+    border: 2px solid rgb(160, 158, 158);
+    border-radius: 7px;
+    font-size: 17px;
+    cursor: pointer;
+    margin: 12px 7px;
+
+ }
+
+ .rightsection {
+    width: 150px;
+    height: auto;
+    margin: auto;
+
+
+
+ }
+
+ .purple {
+    color: rgb(192, 128, 253);
+ }
+
+ .text-gray {
+    color: gray;
+ }
+
+ #element {
+    color: rgb(192, 128, 253);
+ }
+
+ .secondsection {
+    max-width: 80vw;
+    margin: 70px;
+    height: 80vh;
+ }
+
+ .secondsection h1 {
+    font-size: 1.9rem;
+ }
+
+ .secondsection .box {
+    background-color: white;
+    width: 90vw;
+    height: 1px;
+    margin: 100px 0;
+    display: flex;
+    font-size: larger;
+
+ }
+
+ .secondsection .vertical {
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    display: flex;
+    margin: 0 115px;
+
+}
+
+ .image-top {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: -50px;
+    left: -40px;
+ }
+
+ .vertical-title {
+    position: relative;
+    top: 160px;
+    width: 200px;
+    margin: -65px;
+ }
+
+ .vertical-desc {
+    position: relative;
+    top: 190px;
+    margin: -30px;
+    color: gray;
+    width: 300px;
+    font-size: 12px;
+ }
+
+ .footer {
+    background-color: #0e0e1a;
+    height: 233px;
+
+
+ }
+
+ .footer {
+    margin: 80px 15px;
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ .footer ul {
+    list-style: none  style auto;
+    ;
+
+ }
+
+ .footer>div {
+    width: 233px 1px;
+ }
+
+ .footer-first {
+    margin: 10px -300px;
+
+ }
+
+ .footer-second ul {
+    margin: 60px -150px;
+
+ }
+
+ footer .footer-rights {
+    text-align: center;
+    height: -100px -100px;
+    margin: -50px;
+    color: rgb(179, 177, 177);
+    padding: 12px;
+ }
+
